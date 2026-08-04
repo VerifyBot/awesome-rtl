@@ -16,6 +16,7 @@
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Notepad++](https://notepad-plus-plus.org/) - Free and open-source text and source code editor for Microsoft Windows.
 - [Obsidian](https://obsidian.md/) - Open-source mark down note-taking app with using backlinks and graghs, for linux, windows, mac, android, and ios. 
+- [Skim](https://github.com/skim-md/skim) - Browser extension (Chrome/Firefox) that renders markdown with automatic per-block bidi: mixed Hebrew/Arabic/English documents render with correct reading direction throughout.
 
 ## Messengers
 - [Telegram](https://telegram.org/) - Free and open-source messaging app that allows users to communicate via text, voice, and video.
